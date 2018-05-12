@@ -1,9 +1,13 @@
 _repo: A-Year-with-the-Birds-Third-Edition-Enlarged_48677
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Hook, Bryan
     gutenberg_agent_id: '44916'
     url: http://www.gutenberg.org/2009/agents/44916
+covers:
+- cover_type: archival
+  image_path: 48677-h/images/cover.jpg
 creator:
   author:
     agent_name: Fowler, W. Warde (William Warde)
@@ -15,6 +19,8 @@ creator:
     gutenberg_agent_id: '3907'
     url: http://www.gutenberg.org/2009/agents/3907
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48677#A-Year-with-the-Birds-Third-Edition-Enlarged
 gutenberg_issued: '2015-04-10'
 gutenberg_type: Text
 identifiers:
